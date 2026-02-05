@@ -1,6 +1,6 @@
 {
   "pack": 6,
-  "sizeMB": 133.83397769927979,
+  "sizeMB": 134.1767282485962,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1787,6 +1787,7 @@
     "gogunbuntu",
     "grow-cube-v2",
     "grow-farm",
-    "grow-maze"
+    "grow-maze",
+    "grow-nano-3"
   ]
 }

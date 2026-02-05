@@ -1,6 +1,6 @@
 {
   "pack": 6,
-  "sizeMB": 344.2958002090454,
+  "sizeMB": 344.3030319213867,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1831,6 +1831,7 @@
     "gloom-flash-game",
     "games.html",
     "gamemaster01_remastered",
-    "graviteevfinal11"
+    "graviteevfinal11",
+    "game-test_202104"
   ]
 }

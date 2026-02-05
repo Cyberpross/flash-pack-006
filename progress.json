@@ -1,6 +1,6 @@
 {
   "pack": 6,
-  "sizeMB": 549.7865104675293,
+  "sizeMB": 549.8130598068237,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1878,6 +1878,7 @@
     "game-over-gopher",
     "game_20240309",
     "game_monsterbaby",
-    "game-1256602825_flash"
+    "game-1256602825_flash",
+    "g4pong"
   ]
 }

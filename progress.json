@@ -1,6 +1,6 @@
 {
   "pack": 6,
-  "sizeMB": 87.7510232925415,
+  "sizeMB": 89.70263576507568,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1767,6 +1767,7 @@
     "game_20230404",
     "game_20241114",
     "gazania",
-    "GoffikMakeover"
+    "GoffikMakeover",
+    "golden-minigames-flappy-bucket"
   ]
 }

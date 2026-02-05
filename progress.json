@@ -1,6 +1,6 @@
 {
   "pack": 6,
-  "sizeMB": 129.22324466705322,
+  "sizeMB": 133.83397769927979,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1786,6 +1786,7 @@
     "gathe-escape-make-up-room",
     "gogunbuntu",
     "grow-cube-v2",
-    "grow-farm"
+    "grow-farm",
+    "grow-maze"
   ]
 }

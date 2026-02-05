@@ -1,6 +1,6 @@
 {
   "pack": 6,
-  "sizeMB": 575.8643760681152,
+  "sizeMB": 576.0270042419434,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1887,6 +1887,7 @@
     "grow-1",
     "grow-cannon",
     "grow-island_",
-    "grow-nano-2"
+    "grow-nano-2",
+    "game_flash"
   ]
 }
